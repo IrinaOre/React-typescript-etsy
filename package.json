@@ -1,7 +1,7 @@
 {
   "name": "react-typescript-stars",
   "version": "0.1.0",
-  "homepage": "https://IrinaOre.github.io/React-typescript-etsy",
+  "homepage": "https://IrinaOre.github.io/React-converter",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
